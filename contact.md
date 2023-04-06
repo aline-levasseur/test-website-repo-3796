@@ -15,6 +15,4 @@ Aline LEVASSEUR
 
 - via le formulaire ci dessous :
 
-<iframe title="Contact Form" src="https://plugins.crisp.chat/urn:crisp.im:contact-form:0/contact/9e99b88b-fb75-47ec-bb71-d5b4c823137c" referrerpolicy="origin" sandbox="allow-forms allow-popups allow-scripts" width="100%" height="600px" frameborder="0"></iframe>
-
-<script type="text/javascript">window.$crisp=[];window.CRISP_WEBSITE_ID="9e99b88b-fb75-47ec-bb71-d5b4c823137c";(function(){d=document;s=d.createElement("script");s.src="https://client.crisp.chat/l.js";s.async=1;d.getElementsByTagName("head")[0].appendChild(s);})();</script>
+<iframe title="Contact Form" src="https://plugins.crisp.chat/urn:crisp.im:contact-form:0/contact/a88190fc-ddc6-42dd-a8eb-9f1f555a7f13" referrerpolicy="origin" sandbox="allow-forms allow-popups allow-scripts" width="100%" height="600px" frameborder="0"></iframe>
